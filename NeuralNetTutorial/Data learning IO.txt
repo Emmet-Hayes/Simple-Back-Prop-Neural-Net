@@ -1,0 +1,640 @@
+in: attacking stamina, primary stat, physical resil, magical resil, defending stamina, primary stat, physical resil, magical resil
+out: physical damage needed to kill defending player, magic damage needed to kill defending player, heal needed to heal defending player
+
+max stamina: 62
+max primary: 55
+max for both resils: 0.30
+
+
+Class: Rogue
+Spec: Assassination
+Stamina: 0.419355
+Main Stat: 0.981818
+Physical Resilience: 0.333333
+Magic Resilience: 0.5
+To OHKO this player,
+ 0.194145from a physical attack
+0.219271 from a magical attack
+0.232975 from a heal
+
+
+Class: Warrior
+Spec: Fury
+Stamina: 0.516129
+Main Stat: 0.872727
+Physical Resilience: 0.6
+Magic Resilience: 0.4
+To OHKO this player,
+ 0.295043from a physical attack
+0.293256 from a magical attack
+0.32258 from a heal
+
+
+Class: Shaman
+Spec: Enhancement
+Stamina: 0.483871
+Main Stat: 0.909091
+Physical Resilience: 0.5
+Magic Resilience: 0.5
+To OHKO this player,
+ 0.256167from a physical attack
+0.273245 from a magical attack
+0.290322 from a heal
+
+
+Class: Hunter
+Spec: Survival
+Stamina: 0.467742
+Main Stat: 0.927273
+Physical Resilience: 0.5
+Magic Resilience: 0.5
+To OHKO this player,
+ 0.242772from a physical attack
+0.258958 from a magical attack
+0.275142 from a heal
+
+
+Class: Demon Hunter
+Spec: Havoc
+Stamina: 0.532258
+Main Stat: 0.854545
+Physical Resilience: 0.4
+Magic Resilience: 0.6
+To OHKO this player,
+ 0.28955from a physical attack
+0.331453 from a magical attack
+0.339739 from a heal
+
+
+Class: Death Knight
+Spec: Frost
+Stamina: 0.548387
+Main Stat: 0.836364
+Physical Resilience: 0.566667
+Magic Resilience: 0.433333
+To OHKO this player,
+ 0.323172from a physical attack
+0.328868 from a magical attack
+0.357643 from a heal
+
+
+Class: Monk
+Spec: Windwalker
+Stamina: 0.548387
+Main Stat: 0.836364
+Physical Resilience: 0.5
+Magic Resilience: 0.666667
+To OHKO this player,
+ 0.315568from a physical attack
+0.357644 from a magical attack
+0.357643 from a heal
+
+
+Class: Druid
+Spec: Feral
+Stamina: 0.548387
+Main Stat: 0.836364
+Physical Resilience: 0.4
+Magic Resilience: 0.766667
+To OHKO this player,
+ 0.30481from a physical attack
+0.371578 from a magical attack
+0.357643 from a heal
+
+
+Class: Paladin
+Spec: Retribution
+Stamina: 0.548387
+Main Stat: 0.836364
+Physical Resilience: 0.666667
+Magic Resilience: 0.5
+To OHKO this player,
+ 0.33529from a physical attack
+0.336606 from a magical attack
+0.357643 from a heal
+
+
+Class: Rogue
+Spec: Outlaw
+Stamina: 0.548387
+Main Stat: 0.836364
+Physical Resilience: 0.833333
+Magic Resilience: 0.666667
+To OHKO this player,
+ 0.357643from a physical attack
+0.357644 from a magical attack
+0.357643 from a heal
+
+
+Class: Death Knight
+Spec: Unholy
+Stamina: 0.612903
+Main Stat: 0.763636
+Physical Resilience: 0.666667
+Magic Resilience: 0.666667
+To OHKO this player,
+ 0.410426from a physical attack
+0.437789 from a magical attack
+0.437787 from a heal
+
+
+Class: Warrior
+Spec: Arms
+Stamina: 0.612903
+Main Stat: 0.763636
+Physical Resilience: 0.766667
+Magic Resilience: 0.566667
+To OHKO this player,
+ 0.426416from a physical attack
+0.421965 from a magical attack
+0.437787 from a heal
+
+
+Class: Rogue
+Spec: Subtlety
+Stamina: 0.516129
+Main Stat: 0.872727
+Physical Resilience: 0.666667
+Magic Resilience: 0.666667
+To OHKO this player,
+ 0.302419from a physical attack
+0.322581 from a magical attack
+0.32258 from a heal
+
+
+Class: Mage
+Spec: Fire
+Stamina: 0.516129
+Main Stat: 0.872727
+Physical Resilience: 0.166667
+Magic Resilience: 0.833333
+To OHKO this player,
+ 0.254669from a physical attack
+0.344086 from a magical attack
+0.32258 from a heal
+
+
+Class: Warlock
+Spec: Destruction
+Stamina: 0.516129
+Main Stat: 0.872727
+Physical Resilience: 0.333333
+Magic Resilience: 0.666667
+To OHKO this player,
+ 0.268817from a physical attack
+0.322581 from a magical attack
+0.32258 from a heal
+
+
+Class: Hunter
+Spec: Marksmanship
+Stamina: 0.467742
+Main Stat: 0.927273
+Physical Resilience: 0.4
+Magic Resilience: 0.266667
+To OHKO this player,
+ 0.234496from a physical attack
+0.239254 from a magical attack
+0.275142 from a heal
+
+
+Class: Priest
+Spec: Shadow
+Stamina: 0.5
+Main Stat: 0.890909
+Physical Resilience: 0.266667
+Magic Resilience: 0.4
+To OHKO this player,
+ 0.249556from a physical attack
+0.278293 from a magical attack
+0.306122 from a heal
+
+
+Class: Shaman
+Spec: Elemental
+Stamina: 0.532258
+Main Stat: 0.854545
+Physical Resilience: 0.666667
+Magic Resilience: 0.333333
+To OHKO this player,
+ 0.318505from a physical attack
+0.301991 from a magical attack
+0.339739 from a heal
+
+
+Class: Druid
+Spec: Balance
+Stamina: 0.548387
+Main Stat: 0.836364
+Physical Resilience: 0.666667
+Magic Resilience: 0.166667
+To OHKO this player,
+ 0.33529from a physical attack
+0.301174 from a magical attack
+0.357643 from a heal
+
+
+Class: Warlock
+Spec: Affliction
+Stamina: 0.435484
+Main Stat: 0.963636
+Physical Resilience: 0.233333
+Magic Resilience: 0.266667
+To OHKO this player,
+ 0.19879from a physical attack
+0.214348 from a magical attack
+0.2465 from a heal
+
+
+Class: Mage
+Spec: Arcane
+Stamina: 0.403226
+Main Stat: 1
+Physical Resilience: 0.166667
+Magic Resilience: 0.333333
+To OHKO this player,
+ 0.173638from a physical attack
+0.195504 from a magical attack
+0.219941 from a heal
+
+
+Class: Hunter
+Spec: Beast Mastery
+Stamina: 0.580645
+Main Stat: 0.8
+Physical Resilience: 0.666667
+Magic Resilience: 0.5
+To OHKO this player,
+ 0.37115from a physical attack
+0.372607 from a magical attack
+0.395894 from a heal
+
+
+Class: Warlock
+Spec: Demonology
+Stamina: 0.548387
+Main Stat: 0.836364
+Physical Resilience: 0.6
+Magic Resilience: 0.566667
+To OHKO this player,
+ 0.327113from a physical attack
+0.344717 from a magical attack
+0.357643 from a heal
+
+
+Class: Mage
+Spec: Frost
+Stamina: 0.564516
+Main Stat: 0.818182
+Physical Resilience: 0.666667
+Magic Resilience: 0.666667
+To OHKO this player,
+ 0.352822from a physical attack
+0.376345 from a magical attack
+0.376343 from a heal
+
+
+Class: Priest
+Spec: Holy
+Stamina: 0.451613
+Main Stat: 0.763636
+Physical Resilience: 0.266667
+Magic Resilience: 0.566667
+To OHKO this player,
+ 0.262973from a physical attack
+0.310922 from a magical attack
+0.32258 from a heal
+
+
+Class: Shaman
+Spec: Restoration
+Stamina: 0.467742
+Main Stat: 0.745455
+Physical Resilience: 0.6
+Magic Resilience: 0.4
+To OHKO this player,
+ 0.313033from a physical attack
+0.311137 from a magical attack
+0.34225 from a heal
+
+
+Class: Monk
+Spec: Mistweaver
+Stamina: 0.516129
+Main Stat: 0.690909
+Physical Resilience: 0.4
+Magic Resilience: 0.6
+To OHKO this player,
+ 0.347275from a physical attack
+0.397533 from a magical attack
+0.40747 from a heal
+
+
+Class: Paladin
+Spec: Holy
+Stamina: 0.532258
+Main Stat: 0.672727
+Physical Resilience: 0.666667
+Magic Resilience: 0.5
+To OHKO this player,
+ 0.404587from a physical attack
+0.406175 from a magical attack
+0.43156 from a heal
+
+
+Class: Druid
+Spec: Restoration
+Stamina: 0.548387
+Main Stat: 0.654545
+Physical Resilience: 0.566667
+Magic Resilience: 0.6
+To OHKO this player,
+ 0.412941from a physical attack
+0.445844 from a magical attack
+0.456989 from a heal
+
+
+Class: Priest
+Spec: Discipline
+Stamina: 0.532258
+Main Stat: 0.672727
+Physical Resilience: 0.766667
+Magic Resilience: 0.566667
+To OHKO this player,
+ 0.420351from a physical attack
+0.415963 from a magical attack
+0.43156 from a heal
+
+
+Class: Warrior
+Spec: Protection
+Stamina: 0.83871
+Main Stat: 0.6
+Physical Resilience: 1
+Magic Resilience: 1
+To OHKO this player,
+ 0.816924from a physical attack
+0.871388 from a magical attack
+0.762462 from a heal
+
+
+Class: Demon Hunter
+Spec: Vengeance
+Stamina: 0.919355
+Main Stat: 0.581818
+Physical Resilience: 0.833333
+Magic Resilience: 1
+To OHKO this player,
+ 0.861894from a physical attack
+0.985024 from a magical attack
+0.861894 from a heal
+
+
+Class: Death Knight
+Spec: Blood
+Stamina: 0.903226
+Main Stat: 0.581818
+Physical Resilience: 1
+Magic Resilience: 0.833333
+To OHKO this player,
+ 0.907257from a physical attack
+0.903227 from a magical attack
+0.846773 from a heal
+
+
+Class: Paladin
+Spec: Protection
+Stamina: 0.935484
+Main Stat: 0.581818
+Physical Resilience: 0.833333
+Magic Resilience: 0.833333
+To OHKO this player,
+ 0.877015from a physical attack
+0.935485 from a magical attack
+0.877015 from a heal
+
+
+Class: Druid
+Spec: Guardian
+Stamina: 1
+Main Stat: 0.545455
+Physical Resilience: 0.833333
+Magic Resilience: 0.666667
+To OHKO this player,
+ 0.999998from a physical attack
+1 from a magical attack
+0.999998 from a heal
+
+
+Class: Monk
+Spec: Brewmaster
+Stamina: 0.967742
+Main Stat: 0.563636
+Physical Resilience: 0.666667
+Magic Resilience: 0.833333
+To OHKO this player,
+ 0.87799from a physical attack
+0.998961 from a magical attack
+0.936523 from a heal
+
+
+Valeria (Rogue) (Assassination) is attacking Valeria    (Rogue) (Assassination) Physical| Damage done: 146.00| % of change in target max health: 0.56
+Valeria (Rogue) (Assassination) is attacking Hellscream (Warrior)       (Fury) Physical| Damage done: 133.00| % of change in target max health: 0.42
+Valeria (Rogue) (Assassination) is attacking Drek'thar  (Shaman)        (Enhancement) Physical| Damage done: 138.00| % of change in target max health: 0.46
+Valeria (Rogue) (Assassination) is attacking Hemet      (Hunter)        (Survival) Physical| Damage done: 138.00| % of change in target max health: 0.48
+Valeria (Rogue) (Assassination) is attacking Kayn       (Demon Hunter)  (Havoc) Physical| Damage done: 143.00| % of change in target max health: 0.43
+Valeria (Rogue) (Assassination) is attacking Arthas     (Death Knight)  (Frost) Physical| Damage done: 134.00| % of change in target max health: 0.39
+Valeria (Rogue) (Assassination) is attacking Kiki       (Monk)  (Windwalker) Physical| Damage done: 138.00| % of change in target max health: 0.41
+Valeria (Rogue) (Assassination) is attacking Roga       (Druid) (Feral) Physical| Damage done: 143.00| % of change in target max health: 0.42
+Valeria (Rogue) (Assassination) is attacking Tirion     (Paladin)       (Retribution) Physical| Damage done: 130.00| % of change in target max health: 0.38
+Valeria (Rogue) (Assassination) is attacking Edwin      (Rogue) (Outlaw) Physical| Damage done: 122.00| % of change in target max health: 0.36
+Valeria (Rogue) (Assassination) is attacking Garithos   (Death Knight)  (Unholy) Physical| Damage done: 130.00| % of change in target max health: 0.34
+Valeria (Rogue) (Assassination) is attacking Cairne     (Warrior)       (Arms) Physical| Damage done: 125.00| % of change in target max health: 0.33
+Valeria (Rogue) (Assassination) is attacking Maiev      (Rogue) (Subtlety) Physical| Damage done: 130.00| % of change in target max health: 0.41
+
+
+Valeria (Rogue) (Assassination) is attacking Kael'thas  (Mage)  (Fire) Physical| Damage done: 154.00| % of change in target max health: 0.48
+Valeria (Rogue) (Assassination) is attacking Tichondrius        (Warlock)       (Destruction) Physical| Damage done: 146.00| % of change in target max health: 0.46
+Valeria (Rogue) (Assassination) is attacking Tyrande    (Hunter)        (Marksmanship) Physical| Damage done: 143.00| % of change in target max health: 0.49
+Valeria (Rogue) (Assassination) is attacking Vol'jin    (Priest)        (Shadow) Physical| Damage done: 149.00| % of change in target max health: 0.48
+Valeria (Rogue) (Assassination) is attacking Thrall     (Shaman)        (Elemental) Physical| Damage done: 130.00| % of change in target max health: 0.39
+Valeria (Rogue) (Assassination) is attacking Malfurion  (Druid) (Balance) Physical| Damage done: 130.00| % of change in target max health: 0.38
+Valeria (Rogue) (Assassination) is attacking Mal'Ganis  (Warlock)       (Affliction) Physical| Damage done: 151.00| % of change in target max health: 0.56
+Valeria (Rogue) (Assassination) is attacking Khadgar    (Mage)  (Arcane) Physical| Damage done: 154.00| % of change in target max health: 0.62
+Valeria (Rogue) (Assassination) is attacking Rexxar     (Hunter)        (Beast Mastery) Physical| Damage done: 130.00| % of change in target max health: 0.36
+Valeria (Rogue) (Assassination) is attacking Gul'Dan    (Warlock)       (Demonology) Physical| Damage done: 133.00| % of change in target max health: 0.39
+Valeria (Rogue) (Assassination) is attacking Jaina      (Mage)  (Frost) Physical| Damage done: 130.00| % of change in target max health: 0.37
+
+
+Valeria (Rogue) (Assassination) is attacking Velen      (Priest)        (Holy) Physical| Damage done: 149.00| % of change in target max health: 0.53
+Valeria (Rogue) (Assassination) is attacking Rokhan     (Shaman)        (Restoration) Physical| Damage done: 133.00| % of change in target max health: 0.46
+Valeria (Rogue) (Assassination) is attacking Waka       (Monk)  (Mistweaver) Physical| Damage done: 143.00| % of change in target max health: 0.45
+Valeria (Rogue) (Assassination) is attacking Uther      (Paladin)       (Holy) Physical| Damage done: 130.00| % of change in target max health: 0.39
+Valeria (Rogue) (Assassination) is attacking Marana     (Druid) (Restoration) Physical| Damage done: 134.00| % of change in target max health: 0.39
+Valeria (Rogue) (Assassination) is attacking Tora       (Priest)        (Discipline) Physical| Damage done: 125.00| % of change in target max health: 0.38
+
+
+Valeria (Rogue) (Assassination) is attacking Baine      (Warrior)       (Protection) Physical| Damage done: 113.00| % of change in target max health: 0.22
+Valeria (Rogue) (Assassination) is attacking Illidan    (Demon Hunter)  (Vengeance) Physical| Damage done: 122.00| % of change in target max health: 0.21
+Valeria (Rogue) (Assassination) is attacking Baren      (Death Knight)  (Blood) Physical| Damage done: 113.00| % of change in target max health: 0.20
+Valeria (Rogue) (Assassination) is attacking Lothar     (Paladin)       (Protection) Physical| Damage done: 122.00| % of change in target max health: 0.21
+Valeria (Rogue) (Assassination) is attacking Cenarius   (Druid) (Guardian) Physical| Damage done: 122.00| % of change in target max health: 0.20
+Valeria (Rogue) (Assassination) is attacking Mojo       (Monk)  (Brewmaster) Physical| Damage done: 130.00| % of change in target max health: 0.22
+
+
+Valeria (Rogue) (Assassination) is attacking Valeria    (Rogue) (Assassination) Magic| Damage done: 138.00| % of change in target max health: 0.53
+Valeria (Rogue) (Assassination) is attacking Hellscream (Warrior)       (Fury) Magic| Damage done: 143.00| % of change in target max health: 0.45
+Valeria (Rogue) (Assassination) is attacking Drek'thar  (Shaman)        (Enhancement) Magic| Damage done: 138.00| % of change in target max health: 0.46
+Valeria (Rogue) (Assassination) is attacking Hemet      (Hunter)        (Survival) Magic| Damage done: 138.00| % of change in target max health: 0.48
+Valeria (Rogue) (Assassination) is attacking Kayn       (Demon Hunter)  (Havoc) Magic| Damage done: 133.00| % of change in target max health: 0.40
+Valeria (Rogue) (Assassination) is attacking Arthas     (Death Knight)  (Frost) Magic| Damage done: 141.00| % of change in target max health: 0.41
+Valeria (Rogue) (Assassination) is attacking Kiki       (Monk)  (Windwalker) Magic| Damage done: 130.00| % of change in target max health: 0.38
+Valeria (Rogue) (Assassination) is attacking Roga       (Druid) (Feral) Magic| Damage done: 125.00| % of change in target max health: 0.37
+Valeria (Rogue) (Assassination) is attacking Tirion     (Paladin)       (Retribution) Magic| Damage done: 138.00| % of change in target max health: 0.41
+Valeria (Rogue) (Assassination) is attacking Edwin      (Rogue) (Outlaw) Magic| Damage done: 130.00| % of change in target max health: 0.38
+Valeria (Rogue) (Assassination) is attacking Garithos   (Death Knight)  (Unholy) Magic| Damage done: 130.00| % of change in target max health: 0.34
+Valeria (Rogue) (Assassination) is attacking Cairne     (Warrior)       (Arms) Magic| Damage done: 134.00| % of change in target max health: 0.35
+Valeria (Rogue) (Assassination) is attacking Maiev      (Rogue) (Subtlety) Magic| Damage done: 130.00| % of change in target max health: 0.41
+
+
+Valeria (Rogue) (Assassination) is attacking Kael'thas  (Mage)  (Fire) Magic| Damage done: 122.00| % of change in target max health: 0.38
+Valeria (Rogue) (Assassination) is attacking Tichondrius        (Warlock)       (Destruction) Magic| Damage done: 130.00| % of change in target max health: 0.41
+Valeria (Rogue) (Assassination) is attacking Tyrande    (Hunter)        (Marksmanship) Magic| Damage done: 149.00| % of change in target max health: 0.51
+Valeria (Rogue) (Assassination) is attacking Vol'jin    (Priest)        (Shadow) Magic| Damage done: 143.00| % of change in target max health: 0.46
+Valeria (Rogue) (Assassination) is attacking Thrall     (Shaman)        (Elemental) Magic| Damage done: 146.00| % of change in target max health: 0.44
+Valeria (Rogue) (Assassination) is attacking Malfurion  (Druid) (Balance) Magic| Damage done: 154.00| % of change in target max health: 0.45
+Valeria (Rogue) (Assassination) is attacking Mal'Ganis  (Warlock)       (Affliction) Magic| Damage done: 149.00| % of change in target max health: 0.55
+Valeria (Rogue) (Assassination) is attacking Khadgar    (Mage)  (Arcane) Magic| Damage done: 146.00| % of change in target max health: 0.58
+Valeria (Rogue) (Assassination) is attacking Rexxar     (Hunter)        (Beast Mastery) Magic| Damage done: 138.00| % of change in target max health: 0.38
+Valeria (Rogue) (Assassination) is attacking Gul'Dan    (Warlock)       (Demonology) Magic| Damage done: 134.00| % of change in target max health: 0.39
+Valeria (Rogue) (Assassination) is attacking Jaina      (Mage)  (Frost) Magic| Damage done: 130.00| % of change in target max health: 0.37
+
+
+Valeria (Rogue) (Assassination) is attacking Velen      (Priest)        (Holy) Magic| Damage done: 134.00| % of change in target max health: 0.48
+Valeria (Rogue) (Assassination) is attacking Rokhan     (Shaman)        (Restoration) Magic| Damage done: 143.00| % of change in target max health: 0.49
+Valeria (Rogue) (Assassination) is attacking Waka       (Monk)  (Mistweaver) Magic| Damage done: 133.00| % of change in target max health: 0.42
+Valeria (Rogue) (Assassination) is attacking Uther      (Paladin)       (Holy) Magic| Damage done: 138.00| % of change in target max health: 0.42
+Valeria (Rogue) (Assassination) is attacking Marana     (Druid) (Restoration) Magic| Damage done: 133.00| % of change in target max health: 0.39
+Valeria (Rogue) (Assassination) is attacking Tora       (Priest)        (Discipline) Magic| Damage done: 134.00| % of change in target max health: 0.41
+
+
+Valeria (Rogue) (Assassination) is attacking Baine      (Warrior)       (Protection) Magic| Damage done: 113.00| % of change in target max health: 0.22
+Valeria (Rogue) (Assassination) is attacking Illidan    (Demon Hunter)  (Vengeance) Magic| Damage done: 113.00| % of change in target max health: 0.20
+Valeria (Rogue) (Assassination) is attacking Baren      (Death Knight)  (Blood) Magic| Damage done: 122.00| % of change in target max health: 0.22
+Valeria (Rogue) (Assassination) is attacking Lothar     (Paladin)       (Protection) Magic| Damage done: 122.00| % of change in target max health: 0.21
+Valeria (Rogue) (Assassination) is attacking Cenarius   (Druid) (Guardian) Magic| Damage done: 130.00| % of change in target max health: 0.21
+Valeria (Rogue) (Assassination) is attacking Mojo       (Monk)  (Brewmaster) Magic| Damage done: 122.00| % of change in target max health: 0.20
+
+
+Valeria (Rogue) (Assassination) is healing Valeria      (Rogue) (Assassination) Healing done: 300.00| heal % of max health: 0.62
+Valeria (Rogue) (Assassination) is healing Hellscream   (Warrior)       (Fury) Healing done: 368.00| heal % of max health: 0.51
+Valeria (Rogue) (Assassination) is healing Drek'thar    (Shaman)        (Enhancement) Healing done: 348.00| heal % of max health: 0.54
+Valeria (Rogue) (Assassination) is healing Hemet        (Hunter)        (Survival) Healing done: 338.00| heal % of max health: 0.56
+Valeria (Rogue) (Assassination) is healing Kayn (Demon Hunter)  (Havoc) Healing done: 378.00| heal % of max health: 0.49
+Valeria (Rogue) (Assassination) is healing Arthas       (Death Knight)  (Frost) Healing done: 389.00| heal % of max health: 0.48
+Valeria (Rogue) (Assassination) is healing Kiki (Monk)  (Windwalker) Healing done: 396.00| heal % of max health: 0.48
+Valeria (Rogue) (Assassination) is healing Roga (Druid) (Feral) Healing done: 396.00| heal % of max health: 0.48
+Valeria (Rogue) (Assassination) is healing Tirion       (Paladin)       (Retribution) Healing done: 396.00| heal % of max health: 0.48
+Valeria (Rogue) (Assassination) is healing Edwin        (Rogue) (Outlaw) Healing done: 412.00| heal % of max health: 0.48
+Valeria (Rogue) (Assassination) is healing Garithos     (Death Knight)  (Unholy) Healing done: 444.00| heal % of max health: 0.43
+Valeria (Rogue) (Assassination) is healing Cairne       (Warrior)       (Arms) Healing done: 445.00| heal % of max health: 0.43
+Valeria (Rogue) (Assassination) is healing Maiev        (Rogue) (Subtlety) Healing done: 384.00| heal % of max health: 0.51
+Valeria (Rogue) (Assassination) is healing Kael'thas    (Mage)  (Fire) Healing done: 368.00| heal % of max health: 0.51
+Valeria (Rogue) (Assassination) is healing Tichondrius  (Warlock)       (Destruction) Healing done: 368.00| heal % of max health: 0.51
+Valeria (Rogue) (Assassination) is healing Tyrande      (Hunter)        (Marksmanship) Healing done: 322.00| heal % of max health: 0.56
+Valeria (Rogue) (Assassination) is healing Vol'jin      (Priest)        (Shadow) Healing done: 342.00| heal % of max health: 0.52
+Valeria (Rogue) (Assassination) is healing Thrall       (Shaman)        (Elemental) Healing done: 378.00| heal % of max health: 0.49
+Valeria (Rogue) (Assassination) is healing Malfurion    (Druid) (Balance) Healing done: 380.00| heal % of max health: 0.48
+Valeria (Rogue) (Assassination) is healing Mal'Ganis    (Warlock)       (Affliction) Healing done: 294.00| heal % of max health: 0.60
+Valeria (Rogue) (Assassination) is healing Khadgar      (Mage)  (Arcane) Healing done: 274.00| heal % of max health: 0.65
+Valeria (Rogue) (Assassination) is healing Rexxar       (Hunter)        (Beast Mastery) Healing done: 416.00| heal % of max health: 0.45
+Valeria (Rogue) (Assassination) is healing Gul'Dan      (Warlock)       (Demonology) Healing done: 397.00| heal % of max health: 0.48
+Valeria (Rogue) (Assassination) is healing Jaina        (Mage)  (Frost) Healing done: 414.00| heal % of max health: 0.46
+Valeria (Rogue) (Assassination) is healing Velen        (Priest)        (Holy) Healing done: 321.00| heal % of max health: 0.58
+Valeria (Rogue) (Assassination) is healing Rokhan       (Shaman)        (Restoration) Healing done: 338.00| heal % of max health: 0.56
+Valeria (Rogue) (Assassination) is healing Waka (Monk)  (Mistweaver) Healing done: 368.00| heal % of max health: 0.51
+Valeria (Rogue) (Assassination) is healing Uther        (Paladin)       (Holy) Healing done: 386.00| heal % of max health: 0.49
+Valeria (Rogue) (Assassination) is healing Marana       (Druid) (Restoration) Healing done: 397.00| heal % of max health: 0.48
+Valeria (Rogue) (Assassination) is healing Tora (Priest)        (Discipline) Healing done: 395.00| heal % of max health: 0.49
+Valeria (Rogue) (Assassination) is healing Baine        (Warrior)       (Protection) Healing done: 618.00| heal % of max health: 0.31
+Valeria (Rogue) (Assassination) is healing Illidan      (Demon Hunter)  (Vengeance) Healing done: 659.00| heal % of max health: 0.28
+Valeria (Rogue) (Assassination) is healing Baren        (Death Knight)  (Blood) Healing done: 649.00| heal % of max health: 0.29
+Valeria (Rogue) (Assassination) is healing Lothar       (Paladin)       (Protection) Healing done: 660.00| heal % of max health: 0.28
+Valeria (Rogue) (Assassination) is healing Cenarius     (Druid) (Guardian) Healing done: 692.00| heal % of max health: 0.26
+Valeria (Rogue) (Assassination) is healing Mojo (Monk)  (Brewmaster) Healing done: 672.00| heal % of max health: 0.27
+
+
+Valeria (Rogue) (Assassination) is attacking Valeria    (Rogue) (Assassination) Physical| Damage done: 146.00| % of change in target max health: 0.56
+Hellscream      (Warrior)       (Fury) is attacking Valeria     (Rogue) (Assassination) Physical| Damage done: 130.00| % of change in target max health: 0.50
+Drek'thar       (Shaman)        (Enhancement) is attacking Valeria      (Rogue) (Assassination) Physical| Damage done: 135.00| % of change in target max health: 0.52
+Hemet   (Hunter)        (Survival) is attacking Valeria (Rogue) (Assassination) Physical| Damage done: 138.00| % of change in target max health: 0.53
+Kayn    (Demon Hunter)  (Havoc) is attacking Valeria    (Rogue) (Assassination) Physical| Damage done: 127.00| % of change in target max health: 0.49
+Arthas  (Death Knight)  (Frost) is attacking Valeria    (Rogue) (Assassination) Physical| Damage done: 124.00| % of change in target max health: 0.48
+Kiki    (Monk)  (Windwalker) is attacking Valeria       (Rogue) (Assassination) Physical| Damage done: 124.00| % of change in target max health: 0.48
+Roga    (Druid) (Feral) is attacking Valeria    (Rogue) (Assassination) Physical| Damage done: 124.00| % of change in target max health: 0.48
+Tirion  (Paladin)       (Retribution) is attacking Valeria      (Rogue) (Assassination) Physical| Damage done: 124.00| % of change in target max health: 0.48
+Edwin   (Rogue) (Outlaw) is attacking Valeria   (Rogue) (Assassination) Physical| Damage done: 124.00| % of change in target max health: 0.48
+Garithos        (Death Knight)  (Unholy) is attacking Valeria   (Rogue) (Assassination) Physical| Damage done: 113.00| % of change in target max health: 0.43
+Cairne  (Warrior)       (Arms) is attacking Valeria     (Rogue) (Assassination) Physical| Damage done: 113.00| % of change in target max health: 0.43
+Maiev   (Rogue) (Subtlety) is attacking Valeria (Rogue) (Assassination) Physical| Damage done: 130.00| % of change in target max health: 0.50
+Kael'thas       (Mage)  (Fire) is attacking Valeria     (Rogue) (Assassination) Physical| Damage done: 130.00| % of change in target max health: 0.50
+Tichondrius     (Warlock)       (Destruction) is attacking Valeria      (Rogue) (Assassination) Physical| Damage done: 130.00| % of change in target max health: 0.50
+Tyrande (Hunter)        (Marksmanship) is attacking Valeria     (Rogue) (Assassination) Physical| Damage done: 138.00| % of change in target max health: 0.53
+Vol'jin (Priest)        (Shadow) is attacking Valeria   (Rogue) (Assassination) Physical| Damage done: 132.00| % of change in target max health: 0.51
+Thrall  (Shaman)        (Elemental) is attacking Valeria        (Rogue) (Assassination) Physical| Damage done: 127.00| % of change in target max health: 0.49
+Malfurion       (Druid) (Balance) is attacking Valeria  (Rogue) (Assassination) Physical| Damage done: 124.00| % of change in target max health: 0.48
+Mal'Ganis       (Warlock)       (Affliction) is attacking Valeria       (Rogue) (Assassination) Physical| Damage done: 143.00| % of change in target max health: 0.55
+Khadgar (Mage)  (Arcane) is attacking Valeria   (Rogue) (Assassination) Physical| Damage done: 149.00| % of change in target max health: 0.57
+Rexxar  (Hunter)        (Beast Mastery) is attacking Valeria    (Rogue) (Assassination) Physical| Damage done: 119.00| % of change in target max health: 0.46
+Gul'Dan (Warlock)       (Demonology) is attacking Valeria       (Rogue) (Assassination) Physical| Damage done: 124.00| % of change in target max health: 0.48
+Jaina   (Mage)  (Frost) is attacking Valeria    (Rogue) (Assassination) Physical| Damage done: 122.00| % of change in target max health: 0.47
+Velen   (Priest)        (Holy) is attacking Valeria     (Rogue) (Assassination) Physical| Damage done: 113.00| % of change in target max health: 0.43
+Rokhan  (Shaman)        (Restoration) is attacking Valeria      (Rogue) (Assassination) Physical| Damage done: 111.00| % of change in target max health: 0.43
+Waka    (Monk)  (Mistweaver) is attacking Valeria       (Rogue) (Assassination) Physical| Damage done: 103.00| % of change in target max health: 0.40
+Uther   (Paladin)       (Holy) is attacking Valeria     (Rogue) (Assassination) Physical| Damage done: 100.00| % of change in target max health: 0.38
+Marana  (Druid) (Restoration) is attacking Valeria      (Rogue) (Assassination) Physical| Damage done: 97.00| % of change in target max health: 0.37
+Tora    (Priest)        (Discipline) is attacking Valeria       (Rogue) (Assassination) Physical| Damage done: 100.00| % of change in target max health: 0.38
+Baine   (Warrior)       (Protection) is attacking Valeria       (Rogue) (Assassination) Physical| Damage done: 89.00| % of change in target max health: 0.34
+Illidan (Demon Hunter)  (Vengeance) is attacking Valeria        (Rogue) (Assassination) Physical| Damage done: 86.00| % of change in target max health: 0.33
+Baren   (Death Knight)  (Blood) is attacking Valeria    (Rogue) (Assassination) Physical| Damage done: 86.00| % of change in target max health: 0.33
+Lothar  (Paladin)       (Protection) is attacking Valeria       (Rogue) (Assassination) Physical| Damage done: 86.00| % of change in target max health: 0.33
+Cenarius        (Druid) (Guardian) is attacking Valeria (Rogue) (Assassination) Physical| Damage done: 81.00| % of change in target max health: 0.31
+Mojo    (Monk)  (Brewmaster) is attacking Valeria       (Rogue) (Assassination) Physical| Damage done: 84.00| % of change in target max health: 0.32
+
+
+Valeria (Rogue) (Assassination) is attacking Valeria    (Rogue) (Assassination) Magic| Damage done: 138.00| % of change in target max health: 0.53
+Hellscream      (Warrior)       (Fury) is attacking Valeria     (Rogue) (Assassination) Magic| Damage done: 122.00| % of change in target max health: 0.47
+Drek'thar       (Shaman)        (Enhancement) is attacking Valeria      (Rogue) (Assassination) Magic| Damage done: 128.00| % of change in target max health: 0.49
+Hemet   (Hunter)        (Survival) is attacking Valeria (Rogue) (Assassination) Magic| Damage done: 130.00| % of change in target max health: 0.50
+Kayn    (Demon Hunter)  (Havoc) is attacking Valeria    (Rogue) (Assassination) Magic| Damage done: 120.00| % of change in target max health: 0.46
+Arthas  (Death Knight)  (Frost) is attacking Valeria    (Rogue) (Assassination) Magic| Damage done: 117.00| % of change in target max health: 0.45
+Kiki    (Monk)  (Windwalker) is attacking Valeria       (Rogue) (Assassination) Magic| Damage done: 117.00| % of change in target max health: 0.45
+Roga    (Druid) (Feral) is attacking Valeria    (Rogue) (Assassination) Magic| Damage done: 117.00| % of change in target max health: 0.45
+Tirion  (Paladin)       (Retribution) is attacking Valeria      (Rogue) (Assassination) Magic| Damage done: 117.00| % of change in target max health: 0.45
+Edwin   (Rogue) (Outlaw) is attacking Valeria   (Rogue) (Assassination) Magic| Damage done: 117.00| % of change in target max health: 0.45
+Garithos        (Death Knight)  (Unholy) is attacking Valeria   (Rogue) (Assassination) Magic| Damage done: 107.00| % of change in target max health: 0.41
+Cairne  (Warrior)       (Arms) is attacking Valeria     (Rogue) (Assassination) Magic| Damage done: 107.00| % of change in target max health: 0.41
+Maiev   (Rogue) (Subtlety) is attacking Valeria (Rogue) (Assassination) Magic| Damage done: 122.00| % of change in target max health: 0.47
+Kael'thas       (Mage)  (Fire) is attacking Valeria     (Rogue) (Assassination) Magic| Damage done: 122.00| % of change in target max health: 0.47
+Tichondrius     (Warlock)       (Destruction) is attacking Valeria      (Rogue) (Assassination) Magic| Damage done: 122.00| % of change in target max health: 0.47
+Tyrande (Hunter)        (Marksmanship) is attacking Valeria     (Rogue) (Assassination) Magic| Damage done: 130.00| % of change in target max health: 0.50
+Vol'jin (Priest)        (Shadow) is attacking Valeria   (Rogue) (Assassination) Magic| Damage done: 125.00| % of change in target max health: 0.48
+Thrall  (Shaman)        (Elemental) is attacking Valeria        (Rogue) (Assassination) Magic| Damage done: 120.00| % of change in target max health: 0.46
+Malfurion       (Druid) (Balance) is attacking Valeria  (Rogue) (Assassination) Magic| Damage done: 117.00| % of change in target max health: 0.45
+Mal'Ganis       (Warlock)       (Affliction) is attacking Valeria       (Rogue) (Assassination) Magic| Damage done: 135.00| % of change in target max health: 0.52
+Khadgar (Mage)  (Arcane) is attacking Valeria   (Rogue) (Assassination) Magic| Damage done: 140.00| % of change in target max health: 0.54
+Rexxar  (Hunter)        (Beast Mastery) is attacking Valeria    (Rogue) (Assassination) Magic| Damage done: 112.00| % of change in target max health: 0.43
+Gul'Dan (Warlock)       (Demonology) is attacking Valeria       (Rogue) (Assassination) Magic| Damage done: 117.00| % of change in target max health: 0.45
+Jaina   (Mage)  (Frost) is attacking Valeria    (Rogue) (Assassination) Magic| Damage done: 115.00| % of change in target max health: 0.44
+Velen   (Priest)        (Holy) is attacking Valeria     (Rogue) (Assassination) Magic| Damage done: 107.00| % of change in target max health: 0.41
+Rokhan  (Shaman)        (Restoration) is attacking Valeria      (Rogue) (Assassination) Magic| Damage done: 105.00| % of change in target max health: 0.40
+Waka    (Monk)  (Mistweaver) is attacking Valeria       (Rogue) (Assassination) Magic| Damage done: 97.00| % of change in target max health: 0.37
+Uther   (Paladin)       (Holy) is attacking Valeria     (Rogue) (Assassination) Magic| Damage done: 94.00| % of change in target max health: 0.36
+Marana  (Druid) (Restoration) is attacking Valeria      (Rogue) (Assassination) Magic| Damage done: 92.00| % of change in target max health: 0.35
+Tora    (Priest)        (Discipline) is attacking Valeria       (Rogue) (Assassination) Magic| Damage done: 94.00| % of change in target max health: 0.36
+Baine   (Warrior)       (Protection) is attacking Valeria       (Rogue) (Assassination) Magic| Damage done: 84.00| % of change in target max health: 0.32
+Illidan (Demon Hunter)  (Vengeance) is attacking Valeria        (Rogue) (Assassination) Magic| Damage done: 82.00| % of change in target max health: 0.32
+Baren   (Death Knight)  (Blood) is attacking Valeria    (Rogue) (Assassination) Magic| Damage done: 82.00| % of change in target max health: 0.32
+Lothar  (Paladin)       (Protection) is attacking Valeria       (Rogue) (Assassination) Magic| Damage done: 82.00| % of change in target max health: 0.32
+Cenarius        (Druid) (Guardian) is attacking Valeria (Rogue) (Assassination) Magic| Damage done: 77.00| % of change in target max health: 0.30
+Mojo    (Monk)  (Brewmaster) is attacking Valeria       (Rogue) (Assassination) Magic| Damage done: 79.00| % of change in target max health: 0.30
